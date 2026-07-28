@@ -30,9 +30,13 @@ File → Import → 3DXML (.3dxml)
 
 | Option | Description |
 |----------|----------|
-| Scale | Unit conversion factor |
-| Merge Vertices | Merge overlapping vertices |
-| Auto Smooth by Angle | Apply smooth shading with 30° angle |
+| Scale | Unit conversion factor|
+| Merge Vertices | Merge overlapping vertices (you can setup the merge distance)|
+| Auto Smooth by Angle | Apply smooth shading with 30° angle (you can setup the angle) |
+| Apply Modifier | Apply the Auto Smooth Modifier |
+| Align to World | Centers the file's content to the scene with an extra Z offset so the lowest vertice is at Z=0 |
+| Merge Objects by Materials | Joins objects that use exactly the same material slots |
+| Center Origins to Geometry | Move each imported object's origin to the center of its geometry |
 
 ## Supported
 
@@ -40,6 +44,7 @@ File → Import → 3DXML (.3dxml)
 - Instance transforms
 - PolygonalRep geometry
 - Face colors
+- Drag and drop
 
 ## Not Yet Supported
 
@@ -53,6 +58,7 @@ File → Import → 3DXML (.3dxml)
 - SolidWorks exports
 - Dassault 3DXML assemblies
 - Blender 4.x
+- Blender 5.x
 
 ## License
 
