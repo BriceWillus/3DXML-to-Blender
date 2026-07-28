@@ -25,6 +25,8 @@ Blender addon for importing Dassault Systèmes / SolidWorks 3DXML files.
 ## Usage
 
 File → Import → 3DXML (.3dxml)
+OR
+Drag and drop file to 3DView
 
 ### Import Options
 
