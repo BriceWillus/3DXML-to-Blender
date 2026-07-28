@@ -15,7 +15,7 @@ Blender addon for importing Dassault Systèmes / SolidWorks 3DXML files.
 
 ## Installation
 
-1. Download the latest release ZIP here : https://github.com/BriceWillus/3DXML-to-Blender/releases/tag/v0.7.1
+1. [Download the latest release here](https://github.com/BriceWillus/3DXML-to-Blender/releases)
 2. Open Blender.
 3. Go to Edit → Preferences → Add-ons.
 4. Click Install...
